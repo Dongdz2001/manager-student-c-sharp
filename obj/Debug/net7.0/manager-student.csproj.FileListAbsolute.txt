@@ -1,0 +1,15 @@
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\bin\Debug\net7.0\manager-student.exe
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\bin\Debug\net7.0\manager-student.deps.json
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\bin\Debug\net7.0\manager-student.runtimeconfig.json
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\bin\Debug\net7.0\manager-student.dll
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\bin\Debug\net7.0\manager-student.pdb
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\obj\Debug\net7.0\manager-student.csproj.AssemblyReference.cache
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\obj\Debug\net7.0\manager-student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\obj\Debug\net7.0\manager-student.AssemblyInfoInputs.cache
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\obj\Debug\net7.0\manager-student.AssemblyInfo.cs
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\obj\Debug\net7.0\manager-student.csproj.CoreCompileInputs.cache
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\obj\Debug\net7.0\manager-student.dll
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\obj\Debug\net7.0\refint\manager-student.dll
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\obj\Debug\net7.0\manager-student.pdb
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\obj\Debug\net7.0\manager-student.genruntimeconfig.cache
+C:\Users\Duong Minh Dong\Desktop\TestC#Project\manager-student\obj\Debug\net7.0\ref\manager-student.dll
